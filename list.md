@@ -5,13 +5,13 @@
 - [传记]()
 - [历史](https://github.com/chinazhaoht/book-list/blob/master/list.md#历史)
 - [科学](https://github.com/chinazhaoht/book-list/blob/master/list.md#科学)
-- [经济管理](https://github.com/wangzzu/awesome/blob/master/book-list.md#经济管理)
-- [思维](https://github.com/wangzzu/awesome/blob/master/book-list.md#思维)
-- [心理学](https://github.com/wangzzu/awesome/blob/master/book-list.md#心理学) 
-- [其他](https://github.com/wangzzu/awesome/blob/master/book-list.md#其他)
-- [技术](https://github.com/wangzzu/awesome/blob/master/book-list.md#技术)
-  - [大数据](https://github.com/wangzzu/awesome/blob/master/book-list.md#大数据)
-  - [Java](https://github.com/wangzzu/awesome/blob/master/book-list.md#Java)
+- [经济管理](https://github.com/chinazhaoht/book-list/blob/master/list.md#经济管理)
+- [思维](https://github.com/chinazhaoht/book-list/blob/master/list.md#思维)
+- [心理学](https://github.com/chinazhaoht/book-list/blob/master/list.md#心理学) 
+- [其他](https://github.com/chinazhaoht/book-list/blob/master/list.md#其他)
+- [技术](https://github.com/chinazhaoht/book-list/blob/master/list.md#技术)
+  - [大数据](https://github.com/chinazhaoht/book-list/blob/master/list.md#大数据)
+  - [Java](https://github.com/chinazhaoht/book-list/blob/master/list.md#Java)
 
 ------------
 # 文学（小说）
